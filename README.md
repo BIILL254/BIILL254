@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bill Amani</h1>
 <h3 align="center">I'm an Informatics and Computer Science Student in Kenya.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BIILL254" alt="BIILL254" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/boxtheout" target="blank"><img src="https://img.shields.io/twitter/follow/boxtheout?logo=twitter&style=for-the-badge" alt="boxtheout" /></a> </p>
 
 - 🔭 I’m currently working on [SKillBridge](https://github.com/BIILL254/SkillBridge-webapp)
